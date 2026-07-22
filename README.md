@@ -1,5 +1,12 @@
 # 💫 About Me:
-🧠 I’m currently working on<br><br>Building full-stack web projects using React.js, Node.js, and Express, and improving my problem-solving skills in Java.<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects, modern web applications, or anything involving front-end + back-end integration.<br><br>💡 I’m looking for help with<br><br>Exploring advanced backend concepts, cloud deployment, and optimizing performance in large-scale web apps.<br><br>🌱 I’m currently learning<br><br>Spring Boot, REST APIs, and clean architecture principles to strengthen my backend foundation.<br><br>💬 Ask me about<br><br>JavaScript, frontend development, Node.js, Git/GitHub workflows, or anything related to modern web development.<br><br>⚡ Fun fact<br><br>I love experimenting with new tech stacks, tweaking UIs for pixel-perfect designs, and I believe debugging is just another form of detective work.
+🧠 I'm a full-stack developer focused on building modern web           
+     applications with React, Node.js, and Express, while sharpening     
+     my problem-solving skills in Java.                 <br><br>  Currently deepening my backend expertise with Spring Boot, REST     
+     APIs, and clean architecture principles. I'm looking to             
+     collaborate on open-source projects and anything that blends        
+     front-end polish with back-end substance.        .<br><br>🤝 I enjoy experimenting with new stacks, chasing pixel-perfect UIs,   
+     and treating debugging like detective work. Ask me about            
+     JavaScript, frontend development, Node.js, or Git workflows.  br><br>
 
 
 ## 🌐 Socials:
